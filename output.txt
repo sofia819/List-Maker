@@ -1,0 +1,4 @@
+Total number of items : 3
+1) STONE SOUP x 1
+2) BREAD x 2
+3) LINED PAPER x 10
